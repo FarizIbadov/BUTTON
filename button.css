@@ -1,0 +1,24 @@
+a{
+    border:1px solid blue;
+    border-radius: 20px;
+    text-decoration: none;
+    color:white;
+    background:rgb(38, 113, 233);
+    display:inline-block;
+    padding:10px 20px;
+    font-size:10em;
+    margin-left:350px;
+    margin-top: 175px;
+}
+
+a:hover{
+    background: rgb(63, 96, 247);
+}
+
+a:focus{
+    background: rgb(50, 86, 247);
+}
+
+a:active{
+    background: rgb(35, 73, 245);
+}
